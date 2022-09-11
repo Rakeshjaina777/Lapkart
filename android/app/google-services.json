@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69257536147",
+    "project_id": "lexpert-d5107",
+    "storage_bucket": "lexpert-d5107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69257536147:android:a5b97cb6c12b3331eee366",
+        "android_client_info": {
+          "package_name": "com.example.laptops_expert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69257536147-4rrtums9p65v9uggqup8gn5k2nmnn1kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJaxaVNnqOJt4NUn3c4mWPKvSLOaGbIlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69257536147-4rrtums9p65v9uggqup8gn5k2nmnn1kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
