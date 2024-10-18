@@ -15,6 +15,40 @@ The Laptop Selection Guide App is designed to assist students in choosing the be
 5. **Recommendations**: Get personalized recommendations based on your usage scenario, such as engineering, medical studies, content creation, etc.
 6. **Educational Discounts**: Explore exclusive educational discounts and deals on laptops to help you save money.
 
+
+## Screenshots
+
+<div align="center">
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cbe9bf4c-908e-4d5c-ba74-efae47710c1d" width="210px" height="420px" alt="IMG-20241018-WA0012"/></td>
+    <td><img src="https://github.com/user-attachments/assets/eed9817f-0784-4f2a-8f14-5f02563a3da0" width="210px" height="420px" alt="IMG-20241018-WA0013"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b01d12c3-e91f-4e99-becc-56316174c8e1" width="210px" height="420px" alt="IMG-20241018-WA0014"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/581c7b55-5cb5-47c4-bb92-3d47709b1407" width="280px" height="520px" alt="IMG-20241018-WA0016"/></td>
+    <td><img src="https://github.com/user-attachments/assets/fcbd52b7-bc1b-469d-abb2-7fb6123f5c62" width="280px" height="520px" alt="IMG-20241018-WA0017"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b13264f5-820a-4d66-9300-15a839244bd9" width="280px" height="520px" alt="WhatsApp Image 2024-10-18 at 13 46 12_3676562a"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/70538497-61ae-4458-b677-650836c37366" width="210px" height="420px" alt="WhatsApp Image 2024-10-18 at 13 46 12_3676562a"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0c069770-e5fc-44b5-9fe4-3de48c1d4cd7" width="210px" height="420px" alt="WhatsApp Image 2024-10-18 at 13 46 13_0d57d3c8"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b95f1238-045b-4e39-8237-0fbb017c54b2" width="210px" height="420px" alt="WhatsApp Image 2024-10-18 at 13 46 12_eabb3139"/></td>
+  </tr>
+</table>
+
+
+</div>
+
+## Video Link
+
+(https://drive.google.com/file/d/1jrdR0QcX0ev05Knr_6uiXE8HajuDsaht/view?usp=drive_link)
+
+
+
+
+
+
 ### How It Works:
 
 1. **Select Your Preferences**: Start by selecting your preferences such as budget range, preferred brand, screen size, performance requirements, and more.
