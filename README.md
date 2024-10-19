@@ -98,4 +98,3 @@ Find the perfect laptop companion for your academic journey and beyond. Make inf
 
 ---
 
-Feel free to customize this README according to the specific features and functionalities of your Laptop Selection Guide Flutter App. Happy laptop hunting!
